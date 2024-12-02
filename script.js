@@ -1,4 +1,4 @@
-const wordList = ["rainbow", "computer", "javascript", "hangman", "coding", "developer", "excellent", "diamond", "November","ambient", "February", "minecraft"];
+const wordList = ["rainbow", "computer", "javascript", "hangman", "coding", "developer", "excellent", "diamond", "November","ambient", "February", "minecraft", "adventure", "balloon", "bicycle", "chocolate", "computer", "dinosaur", "elephant", "festival", "galaxy", "guitar", "happiness", "history", "journey", "kangaroo", "library", "mountain", "mystery", "necklace", "octopus", "paradise", "penguin", "rainbow", "rocket", "science", "sculpture", "sunshine", "telescope", "tornado", "treasure", "universe", "volcano", "waterfall", "whisper", "wizard", "zebra", "triangle", "trampoline", "orchestra", "whisper", "notebook", "lantern", "velvet", "compass", "phoenix", "galaxy", "dolphin", "garden", "melody", "mermaid"];
 
 let chosenWord = "";
 
