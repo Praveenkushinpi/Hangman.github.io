@@ -26,7 +26,7 @@ body {
 
     min-height: 100vh;
 
-    background: #5E63BA;
+    background:linear-gradient(to top,violet, orange);
 
 }
 
@@ -40,7 +40,7 @@ body {
 
     padding: 60px 40px;
 
-    background: #fff;
+    background:linear-gradient(to bottom, white, grey);
 
     border-radius: 10px;
 
