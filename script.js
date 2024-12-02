@@ -1,4 +1,4 @@
-const wordList = ["rainbow", "computer", "javascript", "hangman", "coding", "developer"];
+const wordList = ["rainbow", "computer", "javascript", "hangman", "coding", "developer", "excellent", "diamond", "November","ambient", "February", "minecraft"];
 
 let chosenWord = "";
 
